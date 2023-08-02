@@ -1,0 +1,8 @@
+/* Telefon Ekranlar (max-width: 767px) */
+@media (max-width: 440px) {
+    center{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
